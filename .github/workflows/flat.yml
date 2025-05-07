@@ -35,4 +35,3 @@ jobs:
           git add .
           git commit --allow-empty -m "Latest TikTok RSS"
           git push
-          # comment to force rebuild?
