@@ -33,5 +33,5 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git commit --allow-empty -m "Latest TikTok RSS"
+          git commit --allow-empty -m "Latest TikTok RSS `date +'%Y-%m-%d %H:%M:%S'`"
           git push
